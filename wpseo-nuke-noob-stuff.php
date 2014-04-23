@@ -1,9 +1,9 @@
 <?php
 /**
- * Plugin Name: WP SEO Nuke Noob Stuff
+ * Plugin Name: WordPress SEO Nuke Noob Stuff
  * Plugin URI: https://github.com/chuckreynolds/wpseo-nuke-noob-stuff
- * Description: turn off yoast wordpress seo page analysis stuff built for noobs
- * Version: 0.1
+ * Description: This WordPress plugin is built to extend and remove the noob things in the WordPress SEO (WPSEO) plugin by Yoast
+ * Version: 1.0
  * Author: @ChuckReynolds
  * Author URI: https://twitter.com/chuckreynolds
  * License: GPL2
