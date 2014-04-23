@@ -13,6 +13,7 @@ A simple WordPress plugin to nuke the noob things in WP SEO by Yoast.
 - "Focus Keyword" column on posts page
 - "SEO" dot column on posts page
 - "Focus Keyword" stuff in the post screen metabox
+- WPSEO dashboard metabox
 
 
 All respect for the WPSEO crew still. A while ago I opened a proposal in their github repo to address this: [https://github.com/Yoast/wordpress-seo/issues/869](https://github.com/Yoast/wordpress-seo/issues/869) 
