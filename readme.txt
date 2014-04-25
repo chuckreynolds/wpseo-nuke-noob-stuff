@@ -8,10 +8,10 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Built to extend WordPress SEO by Yoast plugin by removing some of the super basic noob things like page analysis for you or clients who don't care and just want a good plain technical WPSEO plugin.
+Built to extend WordPress SEO by Yoast plugin by removing some of the super basic noob things like page analysis etc
 
 == Description ==
-This WordPress plugin is built to extend and remove the noob things in the WordPress SEO (WPSEO) plugin by Yoast.
+This WordPress plugin is built to extend and remove the noob things in the WordPress SEO (WPSEO) plugin by Yoast for you or clients who don't care and just want a good plain technical WPSEO plugin.
 
 **It currently disables the following**
 * "All SEO Scores" dropdown select on posts page
