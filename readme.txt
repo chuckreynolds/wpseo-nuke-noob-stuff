@@ -8,18 +8,20 @@ Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Built to extend WordPress SEO by Yoast plugin by removing some of the super basic noob things like page analysis etc
+Built to extend WordPress SEO by Yoast plugin by removing some of the basic noob things like the SEO color dot and extra columns on pages and posts.
 
 == Description ==
 This WordPress plugin is built to extend and remove the noob things in the WordPress SEO (WPSEO) plugin by Yoast for you or clients who don't care and just want a good plain technical WPSEO plugin.
 
-**It currently diables the following**
+**It currently disables the following**
+
 * "All SEO Scores" dropdown select on posts & pages listings
 * SEO dot, SEO Title, Meta Desc, & Focus KW columns on posts & pages listings
 * "SEO: (dot) Check" in publish metabox
 * "Page Analysis" tab in posts metabox
 
 **What else I want it to do later if ever possible**
+
 * "SEO" dropdown from admin bar. doesn't annoy enough to fix
 * "Focus Keyword" input section and entire tab in the post/page screen metabox
 
