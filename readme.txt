@@ -1,12 +1,12 @@
 === WordPress SEO Nuke Noob Stuff ===
 Contributors: ryno267
 Donate link:
-Tags: wpseo, wordpress seo, yoast,
-Requires at least: 3.0
-Tested up to: 4.2
-Stable tag: 1.1
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: admin, wpadmin, wp-admin, admin toolbar, admin ui, admin interface, seo, SEO, Yoast SEO, WordPress SEO, WordPress SEO by Yoast, wpseo, yoast, seo pack
+Requires at least: 3.9
+Tested up to: 4.2.2
+Stable tag: 1.1.1
+License: GPLv3
+License URI: http://www.gnu.org/licenses/gpl.html
 
 Built to extend WordPress SEO by Yoast plugin by removing some of the basic noob things like the SEO color dot and extra columns on pages and posts.
 
@@ -39,6 +39,9 @@ If you think you'd like to contribute [on Github](https://github.com/chuckreynol
 1. That's it. seriously. Everything is done already. Enjoy.
 
 == Changelog ==
+= 1.1.1 =
+* test to 4.2.2
+* mod plugin header info for WP repo
 = 1.1 =
 * test to wp 4.2
 = 1.0 =

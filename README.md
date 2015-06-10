@@ -2,7 +2,7 @@ WPSEO Nuke Noob Stuff
 =====================
 
 A simple WordPress plugin to nuke the noob things in WP SEO by Yoast.
-Stable tag: 1.1
+Stable tag: 1.1.1
 WP.org Link: [https://wordpress.org/plugins/wpseo-nuke-noob-stuff/](https://wordpress.org/plugins/wpseo-nuke-noob-stuff/)
 
 ### It currently disables the following
