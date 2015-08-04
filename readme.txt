@@ -25,7 +25,7 @@ This WordPress plugin is built to extend and remove the noob things in the WordP
 * "SEO" dropdown from admin bar. doesn't annoy enough to fix
 * "Focus Keyword" input section and entire tab in the post/page screen metabox
 
-All respect to the Yoast SEO crew (*joostdevalk & team*) still. A while ago I opened a proposal in their github repo to address this: [WP SEO Issue *#869*](https://github.com/Yoast/wordpress-seo/issues/869) and later a [https://github.com/Yoast/wordpress-seo/pull/2498](Pull Request *#2498*) to try and address the post admin box content.
+All respect to the Yoast SEO crew (*joostdevalk & team*) still. A while ago I opened a proposal in their github repo to address this: [WP SEO Issue *#869*](https://github.com/Yoast/wordpress-seo/issues/869) and later a [Pull Request *#2498*](https://github.com/Yoast/wordpress-seo/pull/2498) to try and address the post admin box content.
 
 Feel free to comment in there that you want this implemented as an option or a more advanced filter - But until then here's a plugin to do it.
 
